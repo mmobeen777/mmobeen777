@@ -8,9 +8,8 @@
     <a href="https://github.com/mmobeen777"><img src="https://img.shields.io/badge/GitHub-mmobeen777-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   </p>
 
-  <!-- Visitor Counter — hits.sh is reliable and free, no signup needed -->
   <a href="https://hits.sh/github.com/mmobeen777/">
-    <img src="https://hits.sh/github.com/mmobeen777.svg?style=for-the-badge&label=Profile+Views&color=0A66C2&labelColor=1a1a2e" alt="Profile Views"/>
+    <img src="https://hits.sh/github.com/mmobeen777.svg?style=for-the-badge&label=Profile+Views&color=#fc4903&labelColor=1a1a2e" alt="Profile Views"/>
   </a>
 </div>
 
@@ -89,11 +88,11 @@ Most of my work revolves around:
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mmobeen777&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmobeen777&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
 </div>
 
 ---
 
-<div align="center">
-  <sub>Open to remote backend roles · <a href="mailto:mobeen.mobeen777@gmail.com">mobeen.mobeen777@gmail.com</a></sub>
-</div>
+> ### 🟢 Open to Remote Opportunities
+> I'm actively looking for **remote backend roles** (full-time or contract).
+> If you're building something that needs to scale — let's talk.
+> 📩 **[mobeen.mobeen777@gmail.com](mailto:mobeen.mobeen777@gmail.com)** · **[LinkedIn](https://linkedin.com/in/mobeen777)**
