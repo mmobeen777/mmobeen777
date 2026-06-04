@@ -7,8 +7,11 @@
     <a href="mailto:mobeen.mobeen777@gmail.com"><img src="https://img.shields.io/badge/Email-mobeen.mobeen777@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://github.com/mmobeen777"><img src="https://img.shields.io/badge/GitHub-mmobeen777-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   </p>
-  <!-- Visitor Counter -->
-  <img src="https://profile-counter.glitch.me/mmobeen777/count.svg" alt="Visitor Count" />
+
+  <!-- Visitor Counter — hits.sh is reliable and free, no signup needed -->
+  <a href="https://hits.sh/github.com/mmobeen777/">
+    <img src="https://hits.sh/github.com/mmobeen777.svg?style=for-the-badge&label=Profile+Views&color=0A66C2&labelColor=1a1a2e" alt="Profile Views"/>
+  </a>
 </div>
 
 ---
@@ -85,6 +88,12 @@ Most of my work revolves around:
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmobeen777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmobeen777&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=mmobeen777&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmobeen777&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+</div>
+
+---
+
+<div align="center">
+  <sub>Open to remote backend roles · <a href="mailto:mobeen.mobeen777@gmail.com">mobeen.mobeen777@gmail.com</a></sub>
 </div>
