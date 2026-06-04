@@ -1,88 +1,90 @@
-👋 Hi, I'm Muhammad Mobeen
+<!-- Header -->
+<div align="center">
+  <h1>Hey, I'm Muhammad Mobeen 👋</h1>
+  <h3>Senior Backend Engineer · Python / Django · Islamabad, Pakistan</h3>
+  <p>
+    <a href="https://linkedin.com/in/mobeen777"><img src="https://img.shields.io/badge/LinkedIn-mobeen777-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:mobeen.mobeen777@gmail.com"><img src="https://img.shields.io/badge/Email-mobeen.mobeen777@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://github.com/mmobeen777"><img src="https://img.shields.io/badge/GitHub-mmobeen777-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  </p>
+  <!-- Visitor Counter -->
+  <img src="https://profile-counter.glitch.me/mmobeen777/count.svg" alt="Visitor Count" />
+</div>
 
-🚀 Backend Engineer
-🐍 Python | Django | Distributed Systems | AWS
-⚙️ I build scalable backend systems, data pipelines, and high-performance APIs.
+---
 
-🧑‍💻 About Me
+### About Me
 
-I’m a backend engineer focused on building reliable, scalable, and maintainable systems.
-At work, I design and optimize systems that handle large-scale data ingestion, background processing, and third-party integrations.
+Backend Engineer with 4+ years of experience building scalable data systems and high-concurrency APIs in agile, remote environments. I've shipped production systems for EU-based companies, handling everything from async distributed architectures to third-party integrations and CI/CD automation.
 
-I enjoy solving problems around:
+Most of my work revolves around:
+- Designing reliable **data ingestion pipelines** at scale
+- Building **async distributed systems** that stay fast under real load
+- Integrating **external platforms** cleanly without coupling the core
+- Keeping systems **maintainable** as teams and codebases grow
 
-System performance & optimization
-Distributed task processing (Celery-based systems)
-API design & architecture
-Data ingestion pipelines
-Cloud infrastructure (AWS)
-🛠️ Tech Stack
+---
 
-Languages & Frameworks
+### Core Focus
 
-Python
-Django / Django REST Framework
+- Backend systems — Django / Django REST Framework
+- Async & distributed processing — Celery, RabbitMQ, Redis, Asyncio
+- Data pipelines — ETL, event tracking, KPI generation
+- API design — REST, OAuth, Stripe, third-party integrations
+- DevOps & CI/CD — GitHub Actions, Docker, automated testing
 
-Backend & Distributed Systems
+---
 
-Celery (task queues, scheduling)
-Redis
-PostgreSQL
-REST APIs
+### Selected Work
 
-Cloud & DevOps
+**Jobbio Ingestion Pipelines** → Designed and scaled pipelines processing **1M+ records/day** across 8 global job platforms using Celery worker orchestration and queue-based workload partitioning
 
-AWS (S3, etc.)
-Docker
-Linux
+**AI Job Classification Pipeline** → Built an AI-driven system classifying **100K+ job listings**, automating categorization and improving search accuracy and data quality
 
-Other Tools
+**Jobbio Job Board** → Engineered a low-latency retrieval system hitting **~400ms response times** using Redis caching, asyncio, and geo-prioritized ranking (city → state → country)
 
-Stripe API integrations
-Social Auth (Google OAuth)
-Git / GitHub
-🚀 What I Build
-🔹 Scalable Ingestion Systems
+**Robin Workbench** → Designed analytics data models and aggregation layers for large-scale event tracking and KPI generation powering business dashboards
 
-Designed and maintained pipelines processing 1M+ records/day, integrating multiple external job platforms using distributed Celery workers.
+**RBAC System (Red Marker)** → Implemented role-based access control supporting **5 user roles and 50+ permission groups** across multiple applications
 
-🔹 High-Performance APIs
+---
 
-Built and optimized backend APIs used across multiple services, improving query performance and reducing latency through database and code-level optimizations.
+### Tech Stack
 
-🔹 Background Processing Systems
+**Backend & Architecture**
 
-Implemented asynchronous job processing systems using Celery, improving system reliability and decoupling heavy workloads from APIs.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-0A0A0A?style=for-the-badge&logo=django&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-1F2937?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-374151?style=for-the-badge)
 
-🔹 Authentication & Integrations
+**Async & Messaging**
 
-Integrated:
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Asyncio](https://img.shields.io/badge/Asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Google OAuth (social login)
-Stripe billing/webhooks
-AWS S3 file storage
-📦 Featured Projects
+**Databases**
 
-(Replace these with your actual repo links)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
-🔹 Job Aggregation / Ingestion System
+**Cloud & DevOps**
 
-A distributed system that collects and processes job data from multiple sources using Celery workers and queue-based architecture.
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-🔹 Django API Platform
+---
 
-A modular backend API system with authentication, role-based access control, and optimized database queries.
+### GitHub Stats
 
-🔹 Stripe Billing Integration
-
-Subscription and webhook handling system using Stripe with secure event processing.
-
-📈 GitHub Stats
-
-📫 Contact Me
-Email: mobeen.mobeen777@gmail.com
-LinkedIn: https://linkedin.com/in/mobeen777
-GitHub: https://github.com/mmobeen777
-⚡ Fun Fact
-
-I enjoy building systems that take messy real-world data and turn it into something structured, fast, and reliable.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mmobeen777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmobeen777&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
