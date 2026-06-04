@@ -9,7 +9,7 @@
   </p>
 
   <a href="https://hits.sh/github.com/mmobeen777/">
-    <img src="https://hits.sh/github.com/mmobeen777.svg?style=for-the-badge&label=Profile+Views&color=#fc4903&labelColor=1a1a2e" alt="Profile Views"/>
+    <img src="https://hits.sh/github.com/mmobeen777.svg?style=for-the-badge&label=Profile+Views&color=F97316&labelColor=0D1117" alt="Profile Views"/>
   </a>
 </div>
 
