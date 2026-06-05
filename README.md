@@ -5,11 +5,11 @@
   <p>
     <a href="https://linkedin.com/in/mobeen777"><img src="https://img.shields.io/badge/LinkedIn-mobeen777-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:mobeen.mobeen777@gmail.com"><img src="https://img.shields.io/badge/Email-mobeen.mobeen777@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-     <a href="https://hits.sh/github.com/mmobeen777/"><img src="https://hits.sh/github.com/mmobeen777.svg?style=for-the-badge&label=Profile+Views&color=ffffff&labelColor=FF4500" alt="Profile Views"/></a>
+     <a href="https://github.com/mmobeen777"><img src="https://img.shields.io/badge/GitHub-mmobeen777-0A66C2?style=for-the-badge&logo=github&logoColor=white"/></a>
   </p>
 
   <a href="https://hits.sh/github.com/mmobeen777/">
-    <img src="https://hits.sh/github.com/mmobeen777.svg?style=for-the-badge&label=Profile+Views&color=ffffff&labelColor=FF4500&ont-weight: 700" alt="Profile Views"/>
+    <img src="https://hits.sh/github.com/mmobeen777.svg?style=for-the-badge&label=Profile+Views&color=ffffff&labelColor=FF4500" alt="Profile Views"/>
   </a>
 </div>
 
