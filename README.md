@@ -5,7 +5,15 @@
   <p>
     <a href="https://linkedin.com/in/mobeen777"><img src="https://img.shields.io/badge/LinkedIn-mobeen777-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:mobeen.mobeen777@gmail.com"><img src="https://img.shields.io/badge/Email-mobeen.mobeen777@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-     <a href="https://github.com/mmobeen777"><img src="https://img.shields.io/badge/GitHub-mmobeen777-0A66C2?style=for-the-badge&logo=github&logoColor=white"/></a>
+     <svg width="100%" viewBox="0 0 680 80" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(40, 20)">
+    <rect x="0" y="0" width="180" height="38" rx="4" fill="#FF4500"/>
+    <rect x="180" y="0" width="100" height="38" rx="4" fill="#555"/>
+    <rect x="180" y="0" width="8" height="38" fill="#555"/>
+    <text x="90" y="24" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="13" font-weight="800" fill="#ffffff" letter-spacing="0.5">PROFILE VIEWS</text>
+    <text x="230" y="24" text-anchor="middle" font-family="DejaVu Sans, Verdana, sans-serif" font-size="13" font-weight="400" fill="#ffffff">1,234</text>
+  </g>
+</svg>
   </p>
 
   <a href="https://hits.sh/github.com/mmobeen777/">
