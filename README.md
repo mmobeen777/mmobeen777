@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
   <h1>Hey, I'm Muhammad Mobeen 👋</h1>
-  <h3>Senior Backend Engineer · Python / Django</h3>
+  <h3>Backend Engineer · Python / Django</h3>
   <p>
     <a href="https://linkedin.com/in/mobeen777"><img src="https://img.shields.io/badge/LinkedIn-mobeen777-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:mobeen.mobeen777@gmail.com"><img src="https://img.shields.io/badge/Email-mobeen.mobeen777@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
