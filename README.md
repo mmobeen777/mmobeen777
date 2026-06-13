@@ -94,5 +94,5 @@ Most of my work revolves around:
 
 > ### 🟢 Open to Remote Opportunities
 > I'm actively looking for **remote backend roles** (full-time or contract).
-> If you're building something that needs to scale — let's talk.
+> If you're building something that needs to scale, let's talk.
 > 📩 **[mobeen.mobeen777@gmail.com](mailto:mobeen.mobeen777@gmail.com)** · **[LinkedIn](https://linkedin.com/in/mobeen777)**
