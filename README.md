@@ -15,7 +15,7 @@
 
 ---
 
-### About Me
+### About Me.
 
 Backend Engineer with 4+ years of experience building scalable data systems and high-concurrency APIs in agile, remote environments. I've shipped production systems for EU-based companies, handling everything from async distributed architectures to third-party integrations and CI/CD automation.
 
